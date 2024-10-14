@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume</title>
+    <link>https://fayeholy.github.io/</link>
+    <description>Recent content on Resume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://fayeholy.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>21700 High power cell</title>
+      <link>https://fayeholy.github.io/21700-page/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fayeholy.github.io/21700-page/</guid>
+      <description>&lt;div style=&#34;
+    padding: 20px; /* 给内容留出内边距 */
+    color: white; /* 设置文本颜色，以确保可读性 */
+    position: relative; /* 为绝对定位提供参考 */
+    text-align: center; /* 居中对齐内容 */
+&#34;&gt;
+  &lt;!-- 将图片作为内容添加 --&gt;
+&lt;p&gt;&lt;img src=&#34;https://fayeholy.github.io/images/projects/21700.png&#34; alt=&#34;26105 NCM 电芯&#34; style=&#34;
+width: 80%; /* 图片宽度100%，自适应父元素 */
+max-height: 400px; /* 设置最大高度 */
+object-fit: cover; /* 确保图片覆盖整个区域 */
+height: auto; /* 高度自适应 */
+border-radius: 10px; /* 设置边角的圆角 */
+&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;span-stylefont-size-20px-font-weight-bold-color-1111-capacityspan&#34;&gt;&lt;span style=&#34;font-size: 20px; font-weight: bold; color: #111;&#34;&gt;1. Capacity&lt;/span&gt;&lt;/h2&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;img src=&#34;https://fayeholy.github.io/images/projects/21700 capacity.png&#34; alt=&#34;高能量密度示意图&#34; style=&#34;width: 500px; height: auto;&#34;/&gt;  
+    &lt;p style=&#34;font-size: 13px;&#34;&gt;figure 1：0.2C discharge capacity，25℃ &gt;5Ah*&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>26105 NCM cell</title>
+      <link>https://fayeholy.github.io/local-page/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fayeholy.github.io/local-page/</guid>
+      <description>&lt;div style=&#34;
+    padding: 20px; /* 给内容留出内边距 */
+    color: white; /* 设置文本颜色，以确保可读性 */
+    position: relative; /* 为绝对定位提供参考 */
+    text-align: center; /* 居中对齐内容 */
+&#34;&gt;
+  &lt;!-- 将图片作为内容添加 --&gt;
+&lt;p&gt;&lt;img src=&#34;https://fayeholy.github.io/images/projects/26105.png&#34; alt=&#34;26105 NCM 电芯&#34; style=&#34;
+width: 100%; /* 图片宽度100%，自适应父元素 */
+max-height: 400px; /* 设置最大高度 */
+object-fit: cover; /* 确保图片覆盖整个区域 */
+height: auto; /* 高度自适应 */
+border-radius: 10px; /* 设置边角的圆角 */
+&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;span-stylefont-size-20px-font-weight-bold-color-1111-timelinespan&#34;&gt;&lt;span style=&#34;font-size: 20px; font-weight: bold; color: #111;&#34;&gt;1. Timeline&lt;/span&gt;&lt;/h2&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;img src=&#34;https://fayeholy.github.io/images/projects/Amgtimeline.png&#34; alt=&#34;高能量密度示意图&#34; style=&#34;width: 800px; height: auto;&#34;/&gt;  
+    &lt;p style=&#34;font-size: 13px;&#34;&gt;figure 1：Timeline*&lt;/p&gt;  
+&lt;/div&gt;
+&lt;h2 id=&#34;span-stylefont-size-20px-font-weight-bold-color-1112-short-specificationspan&#34;&gt;&lt;span style=&#34;font-size: 20px; font-weight: bold; color: #111;&#34;&gt;2. Short Specification&lt;/span&gt;&lt;/h2&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;img src=&#34;https://fayeholy.github.io/images/projects/short-spec.png&#34; alt=&#34;高能量密度示意图&#34; style=&#34;width: 500px; height: auto;&#34;/&gt;  
+    &lt;p style=&#34;font-size: 13px;&#34;&gt;figure 2：short specification*&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>
